@@ -15,8 +15,8 @@ Tenho grande interesse na área de **desenvolvimento de software** e busco evolu
 
 <p align="left">
 
-<a href="mailto:kevynnmachado@email.com">
-[![Email](https://img.shields.io/badge/Email-Hotmail-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kevynnmachado@hotmail.com)
+<a href="mailto:kevynnmachado@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Hotmail-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
 </p>

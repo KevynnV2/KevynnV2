@@ -1,5 +1,5 @@
 <h1 align="center">Kevynn Machado Alves</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação 🚀</h3>
+<h3 align="center">Desenvolvedor Front-end em formação 🚀</h3>
 
 ---
 
